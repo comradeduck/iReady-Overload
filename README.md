@@ -14,13 +14,13 @@ As of 3/6, this extension has ~105,000 users (gg on 100k lmao) meaning 105,000 f
 
 ## How to use/install
 
-For information on how to install, visit [here](https://github.com/cupiditys/iReady-Overload/wiki/How-to-install)
+For information on how to install, visit the wiki. (made by me) all credits to cupiditys though
 <br/>
 
 ## Disclaimers
 <details>
 <summary><b>Details</b></summary>
-iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in the SLIGHTEST to make their product enjoyable, or even acceptable. This repository is a collection of hacks and a chrome extension that ensures nobody has to suffer through iReady ever again. The current version has a **lesson & quiz skipper, a diagnostic hack, and a minutes hack**. The diagnostic hack currently is not instantaneous, and questions will have to be inputted manually.
+iready is hated, so this is why cupiditys 
 </details>    
 <details>
 <summary><b>Other Info</b></summary>
