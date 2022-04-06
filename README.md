@@ -71,3 +71,7 @@ They also added this :trollface:
 also, the #1 related search for iready is iready overload
 
 ![unknown](https://user-images.githubusercontent.com/66990287/155582445-c6d5471d-7864-4f17-b912-463645067b8c.jpg)
+
+## Issues
+Since cupiditys removed issues, i decided to add them back temp, if people ask me to update it itll be closed since i cannot code.
+Thank you.
