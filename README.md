@@ -2,7 +2,7 @@
 
 <h1 align="center">iReady Overload</h1>
 
-		note: this is the bookmarklet version, i will not reccomend this cause if you get last question wrong, you get 0% or 50%
+		note: this is the bookmarklet version, I have no credits to this, use at your own risk
 
 <p align="center">
         <a href="https://discord.gg/y7X5CSWyR5">
@@ -10,7 +10,7 @@
         </a>
 </p>
 
-As of 3/6, this extension has ~105,000 users (gg on 100k lmao) meaning 105,000 fewer people have to use iReady. Problem is, that barely makes a dent in i-Ready's 10,000,000+ students (1.05%). If your school uses i-Ready, recommend this extension. They'll thank you.
+haha iready sucks
 
 ## How to use/install
 
